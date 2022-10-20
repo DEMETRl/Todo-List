@@ -1,0 +1,15 @@
+
+# finder
+.DS_Store
+
+
+# XCode
+xcuserdata/
+*.xcworkspace
+*.xcodeproj
+info.plist
+
+#Cocoapods
+Pods/
+Podfile
+Podfile.lock
